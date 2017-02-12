@@ -15,7 +15,7 @@ if you are a developer and  would like to contribute any help is welcome!
 The contribution guide can be found [here]().   
 
 ## Contributors
-- MrScammer
+- [Mr.Scammer](https://github.com/pongo1231)
 
 ## Screenshots
 
