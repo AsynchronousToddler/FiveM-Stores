@@ -1,8 +1,9 @@
 client_scripts {
-		"barbers/barbers.lua",	
-		"stripclub/stripclub.lua",
-		"stores/stores.lua",
-		"clothing/clothing.lua",
-		"weapons/weapons.lua",
-		"notifications.lua"
+      "stores/stores.lua",
+			"notifications.lua"			
+--		"barbers/barbers.lua",
+--		"stripclub/stripclub.lua",
+
+--	"clothing/clothing.lua",
+--	"weapons/weapons.lua",
 	}

@@ -1,5 +1,4 @@
-Citizen.CreateThread(function()
-  -- Show notifications when the player has joined the session.
+-- Show notifications when the player has joined the session.
   AddEventHandler("playerSpawned", function(spawn)
     while true do
       Wait(0)
@@ -10,4 +9,3 @@ Citizen.CreateThread(function()
       Citizen.Wait(900000)
     end
   end)
-end)
